@@ -1,4 +1,4 @@
-# DementiaX: AI-Powered Early-Stage Dementia Detection
+# CogniCare: AI-Powered Early-Stage Dementia Detection
 
 Developed to provide an accessible, low-cost screening tool for the early detection of dementia using multi-modal AI analysis.
 
@@ -10,9 +10,9 @@ Dementia affects millions, yet early detection remains a significant challenge d
 
 The onset of dementia is often subtle, with early signs being missed or mistaken for normal aging. Traditional diagnostic methods can be expensive, time-consuming, and require specialist visits, making them inaccessible to a large portion of the population, especially in remote areas. There is a critical need for a scalable, user-friendly screening tool that can be used at home.
 
-## ✨ Solution: DementiaX
+## ✨ Solution: CogniCare
 
-DementiaX is a mobile-first application that transforms a smartphone into a powerful tool for monitoring cognitive health. By engaging users in a series of simple tasks and passively analyzing behavioral markers, our AI model generates a comprehensive Dementia Risk Score (DRS).
+CogniCare is a mobile-first application that transforms a smartphone into a powerful tool for monitoring cognitive health. By engaging users in a series of simple tasks and passively analyzing behavioral markers, our AI model generates a comprehensive Dementia Risk Score (DRS).
 
 ### Key Features
 
